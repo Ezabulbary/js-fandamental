@@ -5,6 +5,6 @@ if(eggPrice <= myBudget){
     console.log("dim diye vat khabo");
 }
 
-// if(eggPrice >= myBudget){
-
-// }
+if(eggPrice >= myBudget){
+    console.log("bat diya dim khabo");
+}
